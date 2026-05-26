@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uploadersender",
+        "uuid": 2371934,
+        "checksum": "j78agw"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "production"
+    }
+}
